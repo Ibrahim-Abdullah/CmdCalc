@@ -11,6 +11,10 @@ public class CmdCalc{
 			case "add":
 			case "addition":
 				System.out.println(first_operand+second_operand);
+			case "Subtract":
+			case "Sub":
+			case "Subtraction":
+				System.out.println(first_operand - second_operand);
 		}
 	}
 }
