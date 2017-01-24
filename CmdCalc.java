@@ -21,6 +21,13 @@ public class CmdCalc{
 			case "Multiply":
 			case "multiplication":
 				System.out.println(first_operand * second_operand);
+				break;
+			case "divide":
+			case "Divide":
+			case "div":
+			case "division":
+				System.out.println(first_operand * second_operand);
+
 		}
 	}
 }
