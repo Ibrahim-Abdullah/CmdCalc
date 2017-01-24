@@ -27,6 +27,9 @@ public class CmdCalc{
 			case "div":
 			case "division":
 				System.out.println(first_operand/second_operand);
+
+
+
 		}
 	}
 }
